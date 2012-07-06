@@ -1,4 +1,0 @@
-PlayHaven
-=========
-
-Play Haven
